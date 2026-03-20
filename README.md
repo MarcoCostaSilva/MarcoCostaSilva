@@ -1,19 +1,43 @@
 # Marco Aurélio Costa da Silva
 
-### Full Stack Developer | Data-Oriented Systems | Backend & Machine Learning
+# 💻 Data-Oriented Full Stack Developer  
+### Data Analytics • Data Engineering • Backend
 
-> Data-Oriented Full Stack Developer specialized in Python, SQL, C# and .NET, focused on building scalable APIs, data pipelines and high-performance systems.
->
-> Desenvolvedor Full Stack orientado a dados, especializado em Python, SQL, C# e .NET, com foco na construção de APIs escaláveis, pipelines de dados e sistemas de alta performance.
+Data-focused developer with experience in **Data Analytics, Data Engineering, and backend development**, building **data pipelines, ETL workflows, APIs, and data-driven systems**.
 
 ---
 
-### 🎯 Current Focus
+## 🚀 Core Skills
 
-- Backend architecture and API development  
-- Data engineering workflows and pipeline design  
-- Business Intelligence and performance analytics  
-- Scalable system design  
+- **Python** (Pandas, NumPy, Scikit-learn) for data processing, analysis, and modeling  
+- **SQL** (MySQL, SQL Server) for relational modeling, querying, and optimization  
+- Data pipeline development and **ETL workflows**  
+- Dashboard and analytical application development (**Power BI, Streamlit**)  
+- API integration and **process automation**
+
+---
+
+## 🧠 Approach
+
+End-to-end development of data-driven solutions, from **data ingestion and transformation** to **analysis, visualization, and insight generation**, with a strong focus on **performance, scalability, and business impact**.
+
+---
+
+## 🎓 Background
+
+**Statistics • Data Science • Digital Business**
+
+Combining analytical thinking, technical expertise, and business understanding to solve real-world problems using data.
+
+---
+
+## 📊 Areas of Interest
+
+- Data Engineering  
+- Data Analytics  
+- Machine Learning  
+- Backend Development  
+- Scalable Data Systems  
 
 ---
 
